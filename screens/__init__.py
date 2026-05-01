@@ -1,1 +1,1 @@
-# Screens package
+# -*- coding: utf-8 -*-
