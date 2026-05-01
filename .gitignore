@@ -1,0 +1,10 @@
+*.pyc
+__pycache__/
+*.apk
+*.aab
+bin/
+.buildozer/
+.idea/
+*.keystore
+sessions/
+*.session

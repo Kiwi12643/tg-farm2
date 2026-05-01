@@ -1,0 +1,7 @@
+kivy==2.3.0
+kivymd==2.0.1
+telethon==1.36.0
+requests
+pysocks
+cryptg
+pillow
